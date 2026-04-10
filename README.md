@@ -14,5 +14,5 @@
 3. [Estados Financieros IP5 2025 con notas](https://github.com/iplancinco/estados-financieros-2025.git)
 4. ESTADOS_FINANCIEROS_CON_NOTAS_IP5_2025.pdf
 5. [Estados Financieros IP5 2024 con notas](https://iplancinco.github.io/estados-financieros-2025/)
-
+6. [Estados Financieros IP5 2024 con notas](Estados_Financieros_IP5_2024_con_notas.pdf)
 
